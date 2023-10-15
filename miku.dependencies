@@ -2,7 +2,7 @@
   { 
     "repository"   : "Miku_device_xiaomi_zijin",
     "target_path"  : "device/xiaomi/zijin",
-    "branch"       : "TDA",
+    "branch"       : "Udon",
     "remote"       : "diva-ssh"
   }
 ]
